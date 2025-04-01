@@ -1,6 +1,7 @@
 # Leacture (1)
 crewai == 0.22.5
 crewai[tools]
+langchain
 langchain_openai
 langchain_community
 langchain_groq
