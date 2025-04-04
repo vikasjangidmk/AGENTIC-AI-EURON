@@ -7,3 +7,11 @@ langchain_community
 langchain_groq
 python-dotenv
 
+
+#Phi-data
+phidata
+yfinance
+packaging
+duckduckgo-search
+groq
+openai
